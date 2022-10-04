@@ -1,4 +1,4 @@
-demo_job_1:
+demo_job_2:
      script:
        - echo Hi This is Vishal
      tags:
