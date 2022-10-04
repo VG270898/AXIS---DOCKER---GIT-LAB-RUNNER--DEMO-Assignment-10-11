@@ -1,5 +1,5 @@
 demo_job_1:
+     script:
+       - echo Hi This is Vishal
      tags:
        - ci
-     script:
-       - echo Hello World
